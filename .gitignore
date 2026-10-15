@@ -218,6 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-   # Project data (not committed)
-   data/
-   *.parquet
+# Project data (not committed)
+data/
+*.parquet
